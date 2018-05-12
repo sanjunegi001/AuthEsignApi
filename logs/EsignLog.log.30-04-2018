@@ -1,0 +1,7 @@
+30-04-2018 11:50:05 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+30-04-2018 11:50:51 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-04-30T11:50:56TransactionID::UKC:eSign:4604:20180430115051022
+30-04-2018 11:50:53 com.auth.controller.EsignRequestController 189 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:4604:20180430115051022::RequestTime:2018-04-30 11:50:49.943::File Name:CSEdd - CSE_VI.pdf
+30-04-2018 11:50:53 com.auth.controller.EsignRequestController 194 INFO : User Redirected to NSDL Page
+30-04-2018 11:51:56 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-04-30T11:51:01TransactionID::UKC:eSign:6226:20180430115156567
+30-04-2018 11:51:57 com.auth.controller.EsignRequestController 189 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6226:20180430115156567::RequestTime:2018-04-30 11:51:56.491::File Name:6FCOL43.docx.PDF
+30-04-2018 11:51:57 com.auth.controller.EsignRequestController 194 INFO : User Redirected to NSDL Page

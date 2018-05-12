@@ -1,0 +1,52 @@
+07-05-2018 16:40:47 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 16:44:27 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T16:44:32TransactionID::UKC:eSign:6277:20180507044427425
+07-05-2018 16:44:28 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6277:20180507044427425::RequestTime:2018-05-07 16:44:27.280::File Name:CM7C17.docx.pdf
+07-05-2018 16:44:28 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 16:45:20 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6277:20180507044427425::ResponseTime:2018-05-07 16:45:16.821::Message:Esign Prosses Successfully Done
+07-05-2018 16:48:28 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+07-05-2018 16:48:29 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T16:48:34TransactionID::UKC:eSign:6782:20180503070205829
+07-05-2018 16:48:29 com.auth.controller.ApiRequestController 285 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205829::RequestTime:2018-05-07 16:48:28.660::File Name:CSEdd - CSE_VI.pdf
+07-05-2018 16:49:47 com.auth.controller.ApiResponseController 182 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205829::ResponseTime:2018-05-07 16:49:47.521::Message:Esign Prosses Successfully Done
+07-05-2018 16:59:27 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 17:00:19 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:00:24TransactionID::UKC:eSign:7144:20180507050019224
+07-05-2018 17:00:20 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:7144:20180507050019224::RequestTime:2018-05-07 17:00:18.449::File Name:CM7C17.docx.pdf
+07-05-2018 17:00:20 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:00:38 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:null::TranscationID:UKC:eSign:7144:20180507050019224::ResponseTime:2018-05-07 17:00:38.001::Message:User terminate the process of EKYC after OTP Generate/Resend.
+07-05-2018 17:00:59 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:null::TranscationID:UKC:eSign:7144:20180507050019224::ResponseTime:2018-05-07 17:00:58.861::Message:User terminate the process of EKYC after OTP Generate/Resend.
+07-05-2018 17:01:50 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:null::TranscationID:UKC:eSign:7144:20180507050019224::ResponseTime:2018-05-07 17:01:50.199::Message:User terminate the process of EKYC after OTP Generate/Resend.
+07-05-2018 17:02:32 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:02:37TransactionID::UKC:eSign:9489:20180507050232069
+07-05-2018 17:02:32 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:9489:20180507050232069::RequestTime:2018-05-07 17:02:31.900::File Name:CM7C17.docx.pdf
+07-05-2018 17:02:32 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:02:48 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:null::TranscationID:UKC:eSign:9489:20180507050232069::ResponseTime:2018-05-07 17:02:48.818::Message:User terminate the process of EKYC after OTP Generate/Resend.
+07-05-2018 17:03:55 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 17:04:09 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:04:14TransactionID::UKC:eSign:6287:20180507050408963
+07-05-2018 17:04:09 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6287:20180507050408963::RequestTime:2018-05-07 17:04:08.801::File Name:CM7C17.docx.pdf
+07-05-2018 17:04:09 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:04:49 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:null::TranscationID:UKC:eSign:6287:20180507050408963::ResponseTime:2018-05-07 17:04:48.267::Message:User terminate the process of EKYC at consent page.
+07-05-2018 17:08:08 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 17:08:19 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:08:24TransactionID::UKC:eSign:7234:20180507050818759
+07-05-2018 17:08:20 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:7234:20180507050818759::RequestTime:2018-05-07 17:08:18.584::File Name:CM7C17.docx.pdf
+07-05-2018 17:08:20 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:08:59 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:7234:20180507050818759::ResponseTime:2018-05-07 17:08:58.731::Message:User terminate the process of EKYC at consent page.
+07-05-2018 17:12:09 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:2::TIMESTAMP::2018-05-07T17:12:14TransactionID::UKC:eSign:1648:20180507051208960
+07-05-2018 17:12:09 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:BIO::TranscationID:UKC:eSign:1648:20180507051208960::RequestTime:2018-05-07 17:12:08.805::File Name:CM7C17.docx.pdf
+07-05-2018 17:12:09 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:12:25 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:BIO::TranscationID:UKC:eSign:1648:20180507051208960::ResponseTime:2018-05-07 17:12:25.191::Message:User terminate the process of EKYC at biometric page.
+07-05-2018 17:19:31 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 17:19:41 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:19:46TransactionID::UKC:eSign:8963:20180507051940742
+07-05-2018 17:19:42 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:8963:20180507051940742::RequestTime:2018-05-07 17:19:40.584::File Name:CM7C17.docx.pdf
+07-05-2018 17:19:42 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:20:24 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:8963:20180507051940742::ResponseTime:2018-05-07 17:20:23.698::Message:User terminate the process of EKYC at consent page.
+07-05-2018 17:20:50 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:20:55TransactionID::UKC:eSign:7096:20180507052050050
+07-05-2018 17:20:51 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:7096:20180507052050050::RequestTime:2018-05-07 17:20:49.857::File Name:CM7C17.docx.pdf
+07-05-2018 17:20:51 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:21:51 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:7096:20180507052050050::ResponseTime:2018-05-07 17:21:48.703::Message:Esign Process Successfully Done
+07-05-2018 17:34:07 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+07-05-2018 17:34:20 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T17:34:25TransactionID::UKC:eSign:4201:20180507053419751
+07-05-2018 17:34:21 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:4201:20180507053419751::RequestTime:2018-05-07 17:34:19.583::File Name:CM7C17.docx.pdf
+07-05-2018 17:34:21 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page
+07-05-2018 17:34:57 com.auth.controller.EsignResponseController 209 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:4201:20180507053419751::ResponseTime:2018-05-07 17:34:56.718::Message:User terminate the process of EKYC at consent page.
+07-05-2018 18:46:40 com.auth.controller.LoginController 120 INFO : User Successfully Login::authtest
+07-05-2018 18:47:14 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-07T18:47:19TransactionID::UKC:eSign:3155:20180507064714381
+07-05-2018 18:47:15 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:3155:20180507064714381::RequestTime:2018-05-07 18:47:13.537::File Name:CM7C17.docx.pdf
+07-05-2018 18:47:15 com.auth.controller.EsignRequestController 190 INFO : User Redirected to NSDL Page

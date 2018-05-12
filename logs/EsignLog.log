@@ -1,0 +1,30 @@
+11-05-2018 13:17:57 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+
+11-05-2018 13:26:53 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6431:20180511012652854::RequestTime:2018-05-11 13:26:52.807::File Name:CM7C17.docx.pdf
+11-05-2018 13:26:53 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 13:29:32 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6431:20180511012652854::ResponseTime:2018-05-11 13:29:28.412::Message:Esign Process Successfully Done
+11-05-2018 14:17:50 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+11-05-2018 14:18:08 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:9978:20180511021808108::RequestTime:2018-05-11 14:18:08.030::File Name:17_M_III_Comp_Gazette.pdf
+11-05-2018 14:18:08 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 14:18:44 com.auth.controller.EsignResponseController 210 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:9978:20180511021808108::ResponseTime:2018-05-11 14:18:43.347::Message:User terminate the process of EKYC at consent page.
+11-05-2018 14:19:30 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:9108:20180511021929978::RequestTime:2018-05-11 14:19:29.933::File Name:17_M_III_Comp_Gazette.pdf
+11-05-2018 14:19:30 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 14:20:09 com.auth.controller.EsignResponseController 210 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:9108:20180511021929978::ResponseTime:2018-05-11 14:20:09.332::Message:Invalid OTP value and You have exceeded your maximum allowed limit. Please try with new request.
+11-05-2018 14:26:53 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6031:20180511012652850::RequestTime:2018-05-11 14:26:52.807::File Name:CM7C17.docx.pdf
+11-05-2018 14:26:53 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 14:29:32 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6031:20180511012652850::ResponseTime:2018-05-11 14:29:28.412::Message:Esign Process Successfully Done
+11-05-2018 15:00:03 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+11-05-2018 15:00:45 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:5085:20180511030045677::RequestTime:2018-05-11 15:00:45.021::File Name:CM7C17.docx.pdf
+11-05-2018 15:05:46 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 15:10:32 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:5085:20180511030045677::ResponseTime:2018-05-11 15:10:29.412::Message:Esign Process Successfully Done
+11-05-2018 15:20:43 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6421:20180511012652950::RequestTime:2018-05-11 15:20:42.807::File Name:CM7C17.docx.pdf
+11-05-2018 15:26:53 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 15:29:32 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6421:20180511012652950::ResponseTime:2018-05-11 15:29:28.412::Message:Esign Process Successfully Done11-05-2018 16:49:51 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+11-05-2018 16:50:33 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:5283:20180511045033375::RequestTime:2018-05-11 16:50:32.971::File Name:CM7C17.docx.pdf
+11-05-2018 16:50:34 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 16:51:21 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:5283:20180511045033375::ResponseTime:2018-05-11 16:51:18.825::Message:Esign Process Successfully Done
+11-05-2018 16:56:41 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+11-05-2018 17:00:44 com.auth.controller.LoginController 120 INFO : User Successfully Login::sanjay
+11-05-2018 17:01:30 com.auth.controller.EsignRequestController 185 INFO : Request Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:2512:20180511050129410::RequestTime:2018-05-11 17:01:28.676::File Name:6FCOL43.docx.PDF
+11-05-2018 17:01:31 com.auth.controller.EsignRequestController 191 INFO : User Redirected to NSDL Page
+11-05-2018 17:02:40 com.auth.controller.EsignResponseController 186 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:2512:20180511050129410::ResponseTime:2018-05-11 17:02:37.050::Message:Esign Process Successfully Done

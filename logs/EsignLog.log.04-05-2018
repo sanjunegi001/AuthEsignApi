@@ -1,0 +1,36 @@
+04-05-2018 12:47:09 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:47:09 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:47:14TransactionID::UKC:eSign:6782:20180503070205820
+04-05-2018 12:47:09 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205820::RequestTime:2018-05-04 12:47:09.711::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:47:28 com.auth.controller.ApiResponseController 224 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205820::ResponseTime:2018-05-04 12:47:28.275::Message:No database Match Found in Ekyc Error Table
+04-05-2018 12:47:37 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:47:37 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:47:42TransactionID::UKC:eSign:6782:20180503070205821
+04-05-2018 12:47:37 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205821::RequestTime:2018-05-04 12:47:37.329::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:49:19 com.auth.controller.ApiResponseController 180 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205821::ResponseTime:2018-05-04 12:49:18.134::Message:Esign Prosses Successfully Done
+04-05-2018 12:53:41 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:53:42 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:53:47TransactionID::UKC:eSign:6782:20180503070205821
+04-05-2018 12:53:42 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205821::RequestTime:2018-05-04 12:53:41.345::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:53:48 com.auth.controller.ApiResponseController 225 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205821::ResponseTime:2018-05-04 12:53:48.142::Message:Duplicate transaction: UKC:eSign:6782:20180503070205821
+04-05-2018 12:53:54 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:53:54 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:53:59TransactionID::UKC:eSign:6782:20180503070205822
+04-05-2018 12:53:54 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205822::RequestTime:2018-05-04 12:53:54.222::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:54:35 com.auth.controller.ApiResponseController 181 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205822::ResponseTime:2018-05-04 12:54:33.879::Message:Esign Prosses Successfully Done
+04-05-2018 12:56:01 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:56:02 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:56:07TransactionID::UKC:eSign:6782:20180503070205822
+04-05-2018 12:56:02 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205822::RequestTime:2018-05-04 12:56:01.895::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:56:18 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 12:56:18 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T12:56:23TransactionID::UKC:eSign:6782:20180503070205823
+04-05-2018 12:56:18 com.auth.controller.ApiRequestController 283 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205823::RequestTime:2018-05-04 12:56:18.377::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 12:57:29 com.auth.controller.ApiResponseController 181 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205823::ResponseTime:2018-05-04 12:57:28.730::Message:Esign Prosses Successfully Done
+04-05-2018 14:17:48 com.auth.controller.ApiRequestController 400 INFO : Response Meta Data::StatusCode:A101::Message:Invalid Request Method
+04-05-2018 14:18:21 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 14:18:23 com.auth.controller.ApiRequestController 325 INFO : Response Meta Data::StatusCode:A109::Message:Please Check TransactionID.
+04-05-2018 14:18:42 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 14:18:43 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T14:18:48TransactionID::null
+04-05-2018 14:18:44 com.auth.controller.ApiRequestController 285 INFO : Request Meta Data::AuthMode:otp::TranscationID:null::RequestTime:2018-05-04 14:18:42.898::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 14:19:06 com.auth.controller.ApiResponseController 225 INFO : Response Meta Data::AuthMode:OTP::TranscationID:null::ResponseTime:2018-05-04 14:19:06.291::Message:No database Match Found in Ekyc Error Table
+04-05-2018 14:20:31 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 14:20:31 com.auth.controller.ApiRequestController 359 INFO : Response Meta Data::StatusCode:A106::Message:Aadhaar Number should be of 12 digits.
+04-05-2018 14:20:55 com.auth.controller.ApiRequestController 119 INFO : User Access With::sanjay
+04-05-2018 14:20:56 com.auth.controller.EsignAuthController 88 INFO : Esign Document MetaData:ASPID::ASPARSPLMUMTEST037::Authmode:1::TIMESTAMP::2018-05-04T14:20:01TransactionID::UKC:eSign:6782:20180503070205828
+04-05-2018 14:20:56 com.auth.controller.ApiRequestController 285 INFO : Request Meta Data::AuthMode:otp::TranscationID:UKC:eSign:6782:20180503070205828::RequestTime:2018-05-04 14:20:55.850::File Name:CSEdd - CSE_VI.pdf
+04-05-2018 14:21:08 com.auth.controller.ApiResponseController 225 INFO : Response Meta Data::AuthMode:OTP::TranscationID:UKC:eSign:6782:20180503070205828::ResponseTime:2018-05-04 14:21:08.742::Message:Invalid Aadhaar Number
